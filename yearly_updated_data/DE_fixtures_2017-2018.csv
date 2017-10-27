@@ -1,0 +1,307 @@
+DIVISION;DATE;TIME;FIXTURE;HOME TEAM;AWAY TEAM
+BUNDESLIGA;18-8-2017;20:30;Bayern Munich V Bayer Leverkusen;Bayern Munich;Bayer Leverkusen
+BUNDESLIGA;19-8-2017;15:30;1899 Hoffenheim V Werder Bremen;1899 Hoffenheim;Werder Bremen
+BUNDESLIGA;19-8-2017;15:30;FSV Mainz 05 V Hannover 96;FSV Mainz 05;Hannover 96
+BUNDESLIGA;19-8-2017;15:30;Hamburger SV V FC Augsburg;Hamburger SV;FC Augsburg
+BUNDESLIGA;19-8-2017;15:30;Hertha BSC Berlin V VfB Stuttgart;Hertha BSC Berlin;VfB Stuttgart
+BUNDESLIGA;19-8-2017;15:30;VfL Wolfsburg V Borussia Dortmund;VfL Wolfsburg;Borussia Dortmund
+BUNDESLIGA;19-8-2017;18:00;Bor. Monchengladbach V FC Koln;Bor. Monchengladbach;FC Koln
+BUNDESLIGA;19-8-2017;18:30;FC Schalke 04 V RB Leipzig;FC Schalke 04;RB Leipzig
+BUNDESLIGA;20-8-2017;15:30;SC Freiburg V Eintracht Frankfurt;SC Freiburg;Eintracht Frankfurt
+BUNDESLIGA;25-8-2017;18:30;Borussia Dortmund V Hertha BSC Berlin;Borussia Dortmund;Hertha BSC Berlin
+BUNDESLIGA;25-8-2017;20:30;FC Koln V Hamburger SV;FC Koln;Hamburger SV
+BUNDESLIGA;26-8-2017;15:30;Bayer Leverkusen V 1899 Hoffenheim;Bayer Leverkusen;1899 Hoffenheim
+BUNDESLIGA;26-8-2017;15:30;Eintracht Frankfurt V VfL Wolfsburg;Eintracht Frankfurt;VfL Wolfsburg
+BUNDESLIGA;26-8-2017;15:30;FC Augsburg V Bor. Monchengladbach;FC Augsburg;Bor. Monchengladbach
+BUNDESLIGA;26-8-2017;15:30;VfB Stuttgart V FSV Mainz 05;VfB Stuttgart;FSV Mainz 05
+BUNDESLIGA;26-8-2017;15:30;Werder Bremen V Bayern Munich;Werder Bremen;Bayern Munich
+BUNDESLIGA;27-8-2017;15:30;RB Leipzig V SC Freiburg;RB Leipzig;SC Freiburg
+BUNDESLIGA;27-8-2017;18:00;Hannover 96 V FC Schalke 04;Hannover 96;FC Schalke 04
+BUNDESLIGA;8-9-2017;20:30;Hamburger SV V RB Leipzig;Hamburger SV;RB Leipzig
+BUNDESLIGA;9-9-2017;15:30;Bor. Monchengladbach V Eintracht Frankfurt;Bor. Monchengladbach;Eintracht Frankfurt
+BUNDESLIGA;9-9-2017;15:30;FC Augsburg V FC Koln;FC Augsburg;FC Koln
+BUNDESLIGA;9-9-2017;15:30;FSV Mainz 05 V Bayer Leverkusen;FSV Mainz 05;Bayer Leverkusen
+BUNDESLIGA;9-9-2017;15:30;SC Freiburg V Borussia Dortmund;SC Freiburg;Borussia Dortmund
+BUNDESLIGA;9-9-2017;15:30;VfL Wolfsburg V Hannover 96;VfL Wolfsburg;Hannover 96
+BUNDESLIGA;9-9-2017;18:30;1899 Hoffenheim V Bayern Munich;1899 Hoffenheim;Bayern Munich
+BUNDESLIGA;10-9-2017;15:30;Hertha BSC Berlin V Werder Bremen;Hertha BSC Berlin;Werder Bremen
+BUNDESLIGA;10-9-2017;18:00;FC Schalke 04 V VfB Stuttgart;FC Schalke 04;VfB Stuttgart
+BUNDESLIGA;15-9-2017;20:30;Hannover 96 V Hamburger SV;Hannover 96;Hamburger SV
+BUNDESLIGA;16-9-2017;13:30;1899 Hoffenheim V Hertha BSC Berlin;1899 Hoffenheim;Hertha BSC Berlin
+BUNDESLIGA;16-9-2017;15:30;Bayern Munich V FSV Mainz 05;Bayern Munich;FSV Mainz 05
+BUNDESLIGA;16-9-2017;15:30;Eintracht Frankfurt V FC Augsburg;Eintracht Frankfurt;FC Augsburg
+BUNDESLIGA;16-9-2017;15:30;VfB Stuttgart V VfL Wolfsburg;VfB Stuttgart;VfL Wolfsburg
+BUNDESLIGA;16-9-2017;15:30;Werder Bremen V FC Schalke 04;Werder Bremen;FC Schalke 04
+BUNDESLIGA;16-9-2017;18:30;RB Leipzig V Bor. Monchengladbach;RB Leipzig;Bor. Monchengladbach
+BUNDESLIGA;17-9-2017;15:30;Bayer Leverkusen V SC Freiburg;Bayer Leverkusen;SC Freiburg
+BUNDESLIGA;17-9-2017;18:00;Borussia Dortmund V FC Koln;Borussia Dortmund;FC Koln
+BUNDESLIGA;19-9-2017;18:30;Bor. Monchengladbach V VfB Stuttgart;Bor. Monchengladbach;VfB Stuttgart
+BUNDESLIGA;19-9-2017;20:30;FC Augsburg V RB Leipzig;FC Augsburg;RB Leipzig
+BUNDESLIGA;19-9-2017;20:30;FC Schalke 04 V Bayern Munich;FC Schalke 04;Bayern Munich
+BUNDESLIGA;19-9-2017;20:30;VfL Wolfsburg V Werder Bremen;VfL Wolfsburg;Werder Bremen
+BUNDESLIGA;20-9-2017;18:30;FC Koln V Eintracht Frankfurt;FC Koln;Eintracht Frankfurt
+BUNDESLIGA;20-9-2017;20:30;FSV Mainz 05 V 1899 Hoffenheim;FSV Mainz 05;1899 Hoffenheim
+BUNDESLIGA;20-9-2017;20:30;Hamburger SV V Borussia Dortmund;Hamburger SV;Borussia Dortmund
+BUNDESLIGA;20-9-2017;20:30;Hertha BSC Berlin V Bayer Leverkusen;Hertha BSC Berlin;Bayer Leverkusen
+BUNDESLIGA;20-9-2017;20:30;SC Freiburg V Hannover 96;SC Freiburg;Hannover 96
+BUNDESLIGA;22-9-2017;20:30;Bayern Munich V VfL Wolfsburg;Bayern Munich;VfL Wolfsburg
+BUNDESLIGA;23-9-2017;15:30;1899 Hoffenheim V FC Schalke 04;1899 Hoffenheim;FC Schalke 04
+BUNDESLIGA;23-9-2017;15:30;FSV Mainz 05 V Hertha BSC Berlin;FSV Mainz 05;Hertha BSC Berlin
+BUNDESLIGA;23-9-2017;15:30;RB Leipzig V Eintracht Frankfurt;RB Leipzig;Eintracht Frankfurt
+BUNDESLIGA;23-9-2017;15:30;VfB Stuttgart V FC Augsburg;VfB Stuttgart;FC Augsburg
+BUNDESLIGA;23-9-2017;15:30;Werder Bremen V SC Freiburg;Werder Bremen;SC Freiburg
+BUNDESLIGA;23-9-2017;18:30;Borussia Dortmund V Bor. Monchengladbach;Borussia Dortmund;Bor. Monchengladbach
+BUNDESLIGA;24-9-2017;15:30;Hannover 96 V FC Koln;Hannover 96;FC Koln
+BUNDESLIGA;24-9-2017;18:00;Bayer Leverkusen V Hamburger SV;Bayer Leverkusen;Hamburger SV
+BUNDESLIGA;30-9-2017;15:30;Bor. Monchengladbach V Hannover 96;Bor. Monchengladbach;Hannover 96
+BUNDESLIGA;30-9-2017;15:30;Eintracht Frankfurt V VfB Stuttgart;Eintracht Frankfurt;VfB Stuttgart
+BUNDESLIGA;30-9-2017;15:30;FC Augsburg V Borussia Dortmund;FC Augsburg;Borussia Dortmund
+BUNDESLIGA;30-9-2017;15:30;FC Koln V RB Leipzig;FC Koln;RB Leipzig
+BUNDESLIGA;30-9-2017;15:30;FC Schalke 04 V Bayer Leverkusen;FC Schalke 04;Bayer Leverkusen
+BUNDESLIGA;30-9-2017;15:30;Hamburger SV V Werder Bremen;Hamburger SV;Werder Bremen
+BUNDESLIGA;30-9-2017;15:30;Hertha BSC Berlin V Bayern Munich;Hertha BSC Berlin;Bayern Munich
+BUNDESLIGA;30-9-2017;15:30;SC Freiburg V 1899 Hoffenheim;SC Freiburg;1899 Hoffenheim
+BUNDESLIGA;30-9-2017;15:30;VfL Wolfsburg V FSV Mainz 05;VfL Wolfsburg;FSV Mainz 05
+BUNDESLIGA;14-10-2017;15:30;VfB Stuttgart V FC Koln;VfB Stuttgart;FC Koln
+BUNDESLIGA;14-10-2017;15:30;1899 Hoffenheim V FC Augsburg;1899 Hoffenheim;FC Augsburg
+BUNDESLIGA;14-10-2017;15:30;Bayer Leverkusen V VfL Wolfsburg;Bayer Leverkusen;VfL Wolfsburg
+BUNDESLIGA;14-10-2017;15:30;Bayern Munich V SC Freiburg;Bayern Munich;SC Freiburg
+BUNDESLIGA;14-10-2017;15:30;Borussia Dortmund V RB Leipzig;Borussia Dortmund;RB Leipzig
+BUNDESLIGA;14-10-2017;15:30;FSV Mainz 05 V Hamburger SV;FSV Mainz 05;Hamburger SV
+BUNDESLIGA;14-10-2017;15:30;Hannover 96 V Eintracht Frankfurt;Hannover 96;Eintracht Frankfurt
+BUNDESLIGA;14-10-2017;15:30;Hertha BSC Berlin V FC Schalke 04;Hertha BSC Berlin;FC Schalke 04
+BUNDESLIGA;14-10-2017;15:30;Werder Bremen V Bor. Monchengladbach;Werder Bremen;Bor. Monchengladbach
+BUNDESLIGA;21-10-2017;15:30;Bor. Monchengladbach V Bayer Leverkusen;Bor. Monchengladbach;Bayer Leverkusen
+BUNDESLIGA;21-10-2017;15:30;Eintracht Frankfurt V Borussia Dortmund;Eintracht Frankfurt;Borussia Dortmund
+BUNDESLIGA;21-10-2017;15:30;FC Augsburg V Hannover 96;FC Augsburg;Hannover 96
+BUNDESLIGA;21-10-2017;15:30;FC Koln V Werder Bremen;FC Koln;Werder Bremen
+BUNDESLIGA;21-10-2017;15:30;FC Schalke 04 V FSV Mainz 05;FC Schalke 04;FSV Mainz 05
+BUNDESLIGA;21-10-2017;15:30;Hamburger SV V Bayern Munich;Hamburger SV;Bayern Munich
+BUNDESLIGA;21-10-2017;15:30;RB Leipzig V VfB Stuttgart;RB Leipzig;VfB Stuttgart
+BUNDESLIGA;21-10-2017;15:30;SC Freiburg V Hertha BSC Berlin;SC Freiburg;Hertha BSC Berlin
+BUNDESLIGA;21-10-2017;15:30;VfL Wolfsburg V 1899 Hoffenheim;VfL Wolfsburg;1899 Hoffenheim
+BUNDESLIGA;28-10-2017;15:30;1899 Hoffenheim V Bor. Monchengladbach;1899 Hoffenheim;Bor. Monchengladbach
+BUNDESLIGA;28-10-2017;15:30;Bayer Leverkusen V FC Koln;Bayer Leverkusen;FC Koln
+BUNDESLIGA;28-10-2017;15:30;Bayern Munich V RB Leipzig;Bayern Munich;RB Leipzig
+BUNDESLIGA;28-10-2017;15:30;FC Schalke 04 V VfL Wolfsburg;FC Schalke 04;VfL Wolfsburg
+BUNDESLIGA;28-10-2017;15:30;FSV Mainz 05 V Eintracht Frankfurt;FSV Mainz 05;Eintracht Frankfurt
+BUNDESLIGA;28-10-2017;15:30;Hannover 96 V Borussia Dortmund;Hannover 96;Borussia Dortmund
+BUNDESLIGA;28-10-2017;15:30;Hertha BSC Berlin V Hamburger SV;Hertha BSC Berlin;Hamburger SV
+BUNDESLIGA;28-10-2017;15:30;VfB Stuttgart V SC Freiburg;VfB Stuttgart;SC Freiburg
+BUNDESLIGA;28-10-2017;15:30;Werder Bremen V FC Augsburg;Werder Bremen;FC Augsburg
+BUNDESLIGA;4-11-2017;16:30;Bor. Monchengladbach V FSV Mainz 05;Bor. Monchengladbach;FSV Mainz 05
+BUNDESLIGA;4-11-2017;16:30;Borussia Dortmund V Bayern Munich;Borussia Dortmund;Bayern Munich
+BUNDESLIGA;4-11-2017;16:30;Eintracht Frankfurt V Werder Bremen;Eintracht Frankfurt;Werder Bremen
+BUNDESLIGA;4-11-2017;16:30;FC Augsburg V Bayer Leverkusen;FC Augsburg;Bayer Leverkusen
+BUNDESLIGA;4-11-2017;16:30;FC Koln V 1899 Hoffenheim;FC Koln;1899 Hoffenheim
+BUNDESLIGA;4-11-2017;16:30;Hamburger SV V VfB Stuttgart;Hamburger SV;VfB Stuttgart
+BUNDESLIGA;4-11-2017;16:30;RB Leipzig V Hannover 96;RB Leipzig;Hannover 96
+BUNDESLIGA;4-11-2017;16:30;SC Freiburg V FC Schalke 04;SC Freiburg;FC Schalke 04
+BUNDESLIGA;4-11-2017;16:30;VfL Wolfsburg V Hertha BSC Berlin;VfL Wolfsburg;Hertha BSC Berlin
+BUNDESLIGA;18-11-2017;16:30;1899 Hoffenheim V Eintracht Frankfurt;1899 Hoffenheim;Eintracht Frankfurt
+BUNDESLIGA;18-11-2017;16:30;Bayer Leverkusen V RB Leipzig;Bayer Leverkusen;RB Leipzig
+BUNDESLIGA;18-11-2017;16:30;Bayern Munich V FC Augsburg;Bayern Munich;FC Augsburg
+BUNDESLIGA;18-11-2017;16:30;FC Schalke 04 V Hamburger SV;FC Schalke 04;Hamburger SV
+BUNDESLIGA;18-11-2017;16:30;FSV Mainz 05 V FC Koln;FSV Mainz 05;FC Koln
+BUNDESLIGA;18-11-2017;16:30;Hertha BSC Berlin V Bor. Monchengladbach;Hertha BSC Berlin;Bor. Monchengladbach
+BUNDESLIGA;18-11-2017;16:30;VfB Stuttgart V Borussia Dortmund;VfB Stuttgart;Borussia Dortmund
+BUNDESLIGA;18-11-2017;16:30;VfL Wolfsburg V SC Freiburg;VfL Wolfsburg;SC Freiburg
+BUNDESLIGA;18-11-2017;16:30;Werder Bremen V Hannover 96;Werder Bremen;Hannover 96
+BUNDESLIGA;25-11-2017;16:30;Bor. Monchengladbach V Bayern Munich;Bor. Monchengladbach;Bayern Munich
+BUNDESLIGA;25-11-2017;16:30;Borussia Dortmund V FC Schalke 04;Borussia Dortmund;FC Schalke 04
+BUNDESLIGA;25-11-2017;16:30;Eintracht Frankfurt V Bayer Leverkusen;Eintracht Frankfurt;Bayer Leverkusen
+BUNDESLIGA;25-11-2017;16:30;FC Augsburg V VfL Wolfsburg;FC Augsburg;VfL Wolfsburg
+BUNDESLIGA;25-11-2017;16:30;FC Koln V Hertha BSC Berlin;FC Koln;Hertha BSC Berlin
+BUNDESLIGA;25-11-2017;16:30;Hamburger SV V 1899 Hoffenheim;Hamburger SV;1899 Hoffenheim
+BUNDESLIGA;25-11-2017;16:30;Hannover 96 V VfB Stuttgart;Hannover 96;VfB Stuttgart
+BUNDESLIGA;25-11-2017;16:30;RB Leipzig V Werder Bremen;RB Leipzig;Werder Bremen
+BUNDESLIGA;25-11-2017;16:30;SC Freiburg V FSV Mainz 05;SC Freiburg;FSV Mainz 05
+BUNDESLIGA;2-12-2017;16:30;1899 Hoffenheim V RB Leipzig;1899 Hoffenheim;RB Leipzig
+BUNDESLIGA;2-12-2017;16:30;Bayer Leverkusen V Borussia Dortmund;Bayer Leverkusen;Borussia Dortmund
+BUNDESLIGA;2-12-2017;16:30;Bayern Munich V Hannover 96;Bayern Munich;Hannover 96
+BUNDESLIGA;2-12-2017;16:30;FC Schalke 04 V FC Koln;FC Schalke 04;FC Koln
+BUNDESLIGA;2-12-2017;16:30;FSV Mainz 05 V FC Augsburg;FSV Mainz 05;FC Augsburg
+BUNDESLIGA;2-12-2017;16:30;Hertha BSC Berlin V Eintracht Frankfurt;Hertha BSC Berlin;Eintracht Frankfurt
+BUNDESLIGA;2-12-2017;16:30;SC Freiburg V Hamburger SV;SC Freiburg;Hamburger SV
+BUNDESLIGA;2-12-2017;16:30;VfL Wolfsburg V Bor. Monchengladbach;VfL Wolfsburg;Bor. Monchengladbach
+BUNDESLIGA;2-12-2017;16:30;Werder Bremen V VfB Stuttgart;Werder Bremen;VfB Stuttgart
+BUNDESLIGA;9-12-2017;16:30;Bor. Monchengladbach V FC Schalke 04;Bor. Monchengladbach;FC Schalke 04
+BUNDESLIGA;9-12-2017;16:30;Borussia Dortmund V Werder Bremen;Borussia Dortmund;Werder Bremen
+BUNDESLIGA;9-12-2017;16:30;Eintracht Frankfurt V Bayern Munich;Eintracht Frankfurt;Bayern Munich
+BUNDESLIGA;9-12-2017;16:30;FC Augsburg V Hertha BSC Berlin;FC Augsburg;Hertha BSC Berlin
+BUNDESLIGA;9-12-2017;16:30;FC Koln V SC Freiburg;FC Koln;SC Freiburg
+BUNDESLIGA;9-12-2017;16:30;Hamburger SV V VfL Wolfsburg;Hamburger SV;VfL Wolfsburg
+BUNDESLIGA;9-12-2017;16:30;Hannover 96 V 1899 Hoffenheim;Hannover 96;1899 Hoffenheim
+BUNDESLIGA;9-12-2017;16:30;RB Leipzig V FSV Mainz 05;RB Leipzig;FSV Mainz 05
+BUNDESLIGA;9-12-2017;16:30;VfB Stuttgart V Bayer Leverkusen;VfB Stuttgart;Bayer Leverkusen
+BUNDESLIGA;12-12-2017;20:00;1899 Hoffenheim V VfB Stuttgart;1899 Hoffenheim;VfB Stuttgart
+BUNDESLIGA;12-12-2017;20:00;Bayer Leverkusen V Werder Bremen;Bayer Leverkusen;Werder Bremen
+BUNDESLIGA;12-12-2017;20:00;Bayern Munich V FC Koln;Bayern Munich;FC Koln
+BUNDESLIGA;12-12-2017;20:00;FC Schalke 04 V FC Augsburg;FC Schalke 04;FC Augsburg
+BUNDESLIGA;12-12-2017;20:00;FSV Mainz 05 V Borussia Dortmund;FSV Mainz 05;Borussia Dortmund
+BUNDESLIGA;12-12-2017;20:00;Hamburger SV V Eintracht Frankfurt;Hamburger SV;Eintracht Frankfurt
+BUNDESLIGA;12-12-2017;20:00;Hertha BSC Berlin V Hannover 96;Hertha BSC Berlin;Hannover 96
+BUNDESLIGA;12-12-2017;20:00;SC Freiburg V Bor. Monchengladbach;SC Freiburg;Bor. Monchengladbach
+BUNDESLIGA;12-12-2017;20:00;VfL Wolfsburg V RB Leipzig;VfL Wolfsburg;RB Leipzig
+BUNDESLIGA;16-12-2017;16:30;Bor. Monchengladbach V Hamburger SV;Bor. Monchengladbach;Hamburger SV
+BUNDESLIGA;16-12-2017;16:30;Borussia Dortmund V 1899 Hoffenheim;Borussia Dortmund;1899 Hoffenheim
+BUNDESLIGA;16-12-2017;16:30;Eintracht Frankfurt V FC Schalke 04;Eintracht Frankfurt;FC Schalke 04
+BUNDESLIGA;16-12-2017;16:30;FC Augsburg V SC Freiburg;FC Augsburg;SC Freiburg
+BUNDESLIGA;16-12-2017;16:30;FC Koln V VfL Wolfsburg;FC Koln;VfL Wolfsburg
+BUNDESLIGA;16-12-2017;16:30;Hannover 96 V Bayer Leverkusen;Hannover 96;Bayer Leverkusen
+BUNDESLIGA;16-12-2017;16:30;RB Leipzig V Hertha BSC Berlin;RB Leipzig;Hertha BSC Berlin
+BUNDESLIGA;16-12-2017;16:30;VfB Stuttgart V Bayern Munich;VfB Stuttgart;Bayern Munich
+BUNDESLIGA;16-12-2017;16:30;Werder Bremen V FSV Mainz 05;Werder Bremen;FSV Mainz 05
+BUNDESLIGA;13-1-2018;16:30;Bayer Leverkusen V Bayern Munich;Bayer Leverkusen;Bayern Munich
+BUNDESLIGA;13-1-2018;16:30;Borussia Dortmund V VfL Wolfsburg;Borussia Dortmund;VfL Wolfsburg
+BUNDESLIGA;13-1-2018;16:30;Eintracht Frankfurt V SC Freiburg;Eintracht Frankfurt;SC Freiburg
+BUNDESLIGA;13-1-2018;16:30;FC Augsburg V Hamburger SV;FC Augsburg;Hamburger SV
+BUNDESLIGA;13-1-2018;16:30;FC Koln V Bor. Monchengladbach;FC Koln;Bor. Monchengladbach
+BUNDESLIGA;13-1-2018;16:30;Hannover 96 V FSV Mainz 05;Hannover 96;FSV Mainz 05
+BUNDESLIGA;13-1-2018;16:30;RB Leipzig V FC Schalke 04;RB Leipzig;FC Schalke 04
+BUNDESLIGA;13-1-2018;16:30;VfB Stuttgart V Hertha BSC Berlin;VfB Stuttgart;Hertha BSC Berlin
+BUNDESLIGA;13-1-2018;16:30;Werder Bremen V 1899 Hoffenheim;Werder Bremen;1899 Hoffenheim
+BUNDESLIGA;20-1-2018;16:30;1899 Hoffenheim V Bayer Leverkusen;1899 Hoffenheim;Bayer Leverkusen
+BUNDESLIGA;20-1-2018;16:30;Bayern Munich V Werder Bremen;Bayern Munich;Werder Bremen
+BUNDESLIGA;20-1-2018;16:30;Bor. Monchengladbach V FC Augsburg;Bor. Monchengladbach;FC Augsburg
+BUNDESLIGA;20-1-2018;16:30;FC Schalke 04 V Hannover 96;FC Schalke 04;Hannover 96
+BUNDESLIGA;20-1-2018;16:30;FSV Mainz 05 V VfB Stuttgart;FSV Mainz 05;VfB Stuttgart
+BUNDESLIGA;20-1-2018;16:30;Hamburger SV V FC Koln;Hamburger SV;FC Koln
+BUNDESLIGA;20-1-2018;16:30;Hertha BSC Berlin V Borussia Dortmund;Hertha BSC Berlin;Borussia Dortmund
+BUNDESLIGA;20-1-2018;16:30;SC Freiburg V RB Leipzig;SC Freiburg;RB Leipzig
+BUNDESLIGA;20-1-2018;16:30;VfL Wolfsburg V Eintracht Frankfurt;VfL Wolfsburg;Eintracht Frankfurt
+BUNDESLIGA;27-1-2018;16:30;Bayer Leverkusen V FSV Mainz 05;Bayer Leverkusen;FSV Mainz 05
+BUNDESLIGA;27-1-2018;16:30;Bayern Munich V 1899 Hoffenheim;Bayern Munich;1899 Hoffenheim
+BUNDESLIGA;27-1-2018;16:30;Borussia Dortmund V SC Freiburg;Borussia Dortmund;SC Freiburg
+BUNDESLIGA;27-1-2018;16:30;Eintracht Frankfurt V Bor. Monchengladbach;Eintracht Frankfurt;Bor. Monchengladbach
+BUNDESLIGA;27-1-2018;16:30;FC Koln V FC Augsburg;FC Koln;FC Augsburg
+BUNDESLIGA;27-1-2018;16:30;Hannover 96 V VfL Wolfsburg;Hannover 96;VfL Wolfsburg
+BUNDESLIGA;27-1-2018;16:30;RB Leipzig V Hamburger SV;RB Leipzig;Hamburger SV
+BUNDESLIGA;27-1-2018;16:30;VfB Stuttgart V FC Schalke 04;VfB Stuttgart;FC Schalke 04
+BUNDESLIGA;27-1-2018;16:30;Werder Bremen V Hertha BSC Berlin;Werder Bremen;Hertha BSC Berlin
+BUNDESLIGA;3-2-2018;16:30;Bor. Monchengladbach V RB Leipzig;Bor. Monchengladbach;RB Leipzig
+BUNDESLIGA;3-2-2018;16:30;FC Augsburg V Eintracht Frankfurt;FC Augsburg;Eintracht Frankfurt
+BUNDESLIGA;3-2-2018;16:30;FC Koln V Borussia Dortmund;FC Koln;Borussia Dortmund
+BUNDESLIGA;3-2-2018;16:30;FC Schalke 04 V Werder Bremen;FC Schalke 04;Werder Bremen
+BUNDESLIGA;3-2-2018;16:30;FSV Mainz 05 V Bayern Munich;FSV Mainz 05;Bayern Munich
+BUNDESLIGA;3-2-2018;16:30;Hamburger SV V Hannover 96;Hamburger SV;Hannover 96
+BUNDESLIGA;3-2-2018;16:30;Hertha BSC Berlin V 1899 Hoffenheim;Hertha BSC Berlin;1899 Hoffenheim
+BUNDESLIGA;3-2-2018;16:30;SC Freiburg V Bayer Leverkusen;SC Freiburg;Bayer Leverkusen
+BUNDESLIGA;3-2-2018;16:30;VfL Wolfsburg V VfB Stuttgart;VfL Wolfsburg;VfB Stuttgart
+BUNDESLIGA;10-2-2018;16:30;1899 Hoffenheim V FSV Mainz 05;1899 Hoffenheim;FSV Mainz 05
+BUNDESLIGA;10-2-2018;16:30;Bayer Leverkusen V Hertha BSC Berlin;Bayer Leverkusen;Hertha BSC Berlin
+BUNDESLIGA;10-2-2018;16:30;Bayern Munich V FC Schalke 04;Bayern Munich;FC Schalke 04
+BUNDESLIGA;10-2-2018;16:30;Borussia Dortmund V Hamburger SV;Borussia Dortmund;Hamburger SV
+BUNDESLIGA;10-2-2018;16:30;Eintracht Frankfurt V FC Koln;Eintracht Frankfurt;FC Koln
+BUNDESLIGA;10-2-2018;16:30;Hannover 96 V SC Freiburg;Hannover 96;SC Freiburg
+BUNDESLIGA;10-2-2018;16:30;RB Leipzig V FC Augsburg;RB Leipzig;FC Augsburg
+BUNDESLIGA;10-2-2018;16:30;VfB Stuttgart V Bor. Monchengladbach;VfB Stuttgart;Bor. Monchengladbach
+BUNDESLIGA;10-2-2018;16:30;Werder Bremen V VfL Wolfsburg;Werder Bremen;VfL Wolfsburg
+BUNDESLIGA;17-2-2018;16:30;Bor. Monchengladbach V Borussia Dortmund;Bor. Monchengladbach;Borussia Dortmund
+BUNDESLIGA;17-2-2018;16:30;Eintracht Frankfurt V RB Leipzig;Eintracht Frankfurt;RB Leipzig
+BUNDESLIGA;17-2-2018;16:30;FC Augsburg V VfB Stuttgart;FC Augsburg;VfB Stuttgart
+BUNDESLIGA;17-2-2018;16:30;FC Koln V Hannover 96;FC Koln;Hannover 96
+BUNDESLIGA;17-2-2018;16:30;FC Schalke 04 V 1899 Hoffenheim;FC Schalke 04;1899 Hoffenheim
+BUNDESLIGA;17-2-2018;16:30;Hamburger SV V Bayer Leverkusen;Hamburger SV;Bayer Leverkusen
+BUNDESLIGA;17-2-2018;16:30;Hertha BSC Berlin V FSV Mainz 05;Hertha BSC Berlin;FSV Mainz 05
+BUNDESLIGA;17-2-2018;16:30;SC Freiburg V Werder Bremen;SC Freiburg;Werder Bremen
+BUNDESLIGA;17-2-2018;16:30;VfL Wolfsburg V Bayern Munich;VfL Wolfsburg;Bayern Munich
+BUNDESLIGA;24-2-2018;16:30;1899 Hoffenheim V SC Freiburg;1899 Hoffenheim;SC Freiburg
+BUNDESLIGA;24-2-2018;16:30;Bayer Leverkusen V FC Schalke 04;Bayer Leverkusen;FC Schalke 04
+BUNDESLIGA;24-2-2018;16:30;Bayern Munich V Hertha BSC Berlin;Bayern Munich;Hertha BSC Berlin
+BUNDESLIGA;24-2-2018;16:30;Borussia Dortmund V FC Augsburg;Borussia Dortmund;FC Augsburg
+BUNDESLIGA;24-2-2018;16:30;FSV Mainz 05 V VfL Wolfsburg;FSV Mainz 05;VfL Wolfsburg
+BUNDESLIGA;24-2-2018;16:30;Hannover 96 V Bor. Monchengladbach;Hannover 96;Bor. Monchengladbach
+BUNDESLIGA;24-2-2018;16:30;RB Leipzig V FC Koln;RB Leipzig;FC Koln
+BUNDESLIGA;24-2-2018;16:30;VfB Stuttgart V Eintracht Frankfurt;VfB Stuttgart;Eintracht Frankfurt
+BUNDESLIGA;24-2-2018;16:30;Werder Bremen V Hamburger SV;Werder Bremen;Hamburger SV
+BUNDESLIGA;3-3-2018;16:30;Bor. Monchengladbach V Werder Bremen;Bor. Monchengladbach;Werder Bremen
+BUNDESLIGA;3-3-2018;16:30;Eintracht Frankfurt V Hannover 96;Eintracht Frankfurt;Hannover 96
+BUNDESLIGA;3-3-2018;16:30;FC Augsburg V 1899 Hoffenheim;FC Augsburg;1899 Hoffenheim
+BUNDESLIGA;3-3-2018;16:30;FC Koln V VfB Stuttgart;FC Koln;VfB Stuttgart
+BUNDESLIGA;3-3-2018;16:30;FC Schalke 04 V Hertha BSC Berlin;FC Schalke 04;Hertha BSC Berlin
+BUNDESLIGA;3-3-2018;16:30;Hamburger SV V FSV Mainz 05;Hamburger SV;FSV Mainz 05
+BUNDESLIGA;3-3-2018;16:30;RB Leipzig V Borussia Dortmund;RB Leipzig;Borussia Dortmund
+BUNDESLIGA;3-3-2018;16:30;SC Freiburg V Bayern Munich;SC Freiburg;Bayern Munich
+BUNDESLIGA;3-3-2018;16:30;VfL Wolfsburg V Bayer Leverkusen;VfL Wolfsburg;Bayer Leverkusen
+BUNDESLIGA;10-3-2018;16:30;1899 Hoffenheim V VfL Wolfsburg;1899 Hoffenheim;VfL Wolfsburg
+BUNDESLIGA;10-3-2018;16:30;Bayer Leverkusen V Bor. Monchengladbach;Bayer Leverkusen;Bor. Monchengladbach
+BUNDESLIGA;10-3-2018;16:30;Bayern Munich V Hamburger SV;Bayern Munich;Hamburger SV
+BUNDESLIGA;10-3-2018;16:30;Borussia Dortmund V Eintracht Frankfurt;Borussia Dortmund;Eintracht Frankfurt
+BUNDESLIGA;10-3-2018;16:30;FSV Mainz 05 V FC Schalke 04;FSV Mainz 05;FC Schalke 04
+BUNDESLIGA;10-3-2018;16:30;Hannover 96 V FC Augsburg;Hannover 96;FC Augsburg
+BUNDESLIGA;10-3-2018;16:30;Hertha BSC Berlin V SC Freiburg;Hertha BSC Berlin;SC Freiburg
+BUNDESLIGA;10-3-2018;16:30;VfB Stuttgart V RB Leipzig;VfB Stuttgart;RB Leipzig
+BUNDESLIGA;10-3-2018;16:30;Werder Bremen V FC Koln;Werder Bremen;FC Koln
+BUNDESLIGA;17-3-2018;16:30;Bor. Monchengladbach V 1899 Hoffenheim;Bor. Monchengladbach;1899 Hoffenheim
+BUNDESLIGA;17-3-2018;16:30;Borussia Dortmund V Hannover 96;Borussia Dortmund;Hannover 96
+BUNDESLIGA;17-3-2018;16:30;Eintracht Frankfurt V FSV Mainz 05;Eintracht Frankfurt;FSV Mainz 05
+BUNDESLIGA;17-3-2018;16:30;FC Augsburg V Werder Bremen;FC Augsburg;Werder Bremen
+BUNDESLIGA;17-3-2018;16:30;FC Koln V Bayer Leverkusen;FC Koln;Bayer Leverkusen
+BUNDESLIGA;17-3-2018;16:30;Hamburger SV V Hertha BSC Berlin;Hamburger SV;Hertha BSC Berlin
+BUNDESLIGA;17-3-2018;16:30;RB Leipzig V Bayern Munich;RB Leipzig;Bayern Munich
+BUNDESLIGA;17-3-2018;16:30;SC Freiburg V VfB Stuttgart;SC Freiburg;VfB Stuttgart
+BUNDESLIGA;17-3-2018;16:30;VfL Wolfsburg V FC Schalke 04;VfL Wolfsburg;FC Schalke 04
+BUNDESLIGA;31-3-2018;15:30;1899 Hoffenheim V FC Koln;1899 Hoffenheim;FC Koln
+BUNDESLIGA;31-3-2018;15:30;Bayer Leverkusen V FC Augsburg;Bayer Leverkusen;FC Augsburg
+BUNDESLIGA;31-3-2018;15:30;Bayern Munich V Borussia Dortmund;Bayern Munich;Borussia Dortmund
+BUNDESLIGA;31-3-2018;15:30;FC Schalke 04 V SC Freiburg;FC Schalke 04;SC Freiburg
+BUNDESLIGA;31-3-2018;15:30;FSV Mainz 05 V Bor. Monchengladbach;FSV Mainz 05;Bor. Monchengladbach
+BUNDESLIGA;31-3-2018;15:30;Hannover 96 V RB Leipzig;Hannover 96;RB Leipzig
+BUNDESLIGA;31-3-2018;15:30;Hertha BSC Berlin V VfL Wolfsburg;Hertha BSC Berlin;VfL Wolfsburg
+BUNDESLIGA;31-3-2018;15:30;VfB Stuttgart V Hamburger SV;VfB Stuttgart;Hamburger SV
+BUNDESLIGA;31-3-2018;15:30;Werder Bremen V Eintracht Frankfurt;Werder Bremen;Eintracht Frankfurt
+BUNDESLIGA;7-4-2018;15:30;Bor. Monchengladbach V Hertha BSC Berlin;Bor. Monchengladbach;Hertha BSC Berlin
+BUNDESLIGA;7-4-2018;15:30;Borussia Dortmund V VfB Stuttgart;Borussia Dortmund;VfB Stuttgart
+BUNDESLIGA;7-4-2018;15:30;Eintracht Frankfurt V 1899 Hoffenheim;Eintracht Frankfurt;1899 Hoffenheim
+BUNDESLIGA;7-4-2018;15:30;FC Augsburg V Bayern Munich;FC Augsburg;Bayern Munich
+BUNDESLIGA;7-4-2018;15:30;FC Koln V FSV Mainz 05;FC Koln;FSV Mainz 05
+BUNDESLIGA;7-4-2018;15:30;Hamburger SV V FC Schalke 04;Hamburger SV;FC Schalke 04
+BUNDESLIGA;7-4-2018;15:30;Hannover 96 V Werder Bremen;Hannover 96;Werder Bremen
+BUNDESLIGA;7-4-2018;15:30;RB Leipzig V Bayer Leverkusen;RB Leipzig;Bayer Leverkusen
+BUNDESLIGA;7-4-2018;15:30;SC Freiburg V VfL Wolfsburg;SC Freiburg;VfL Wolfsburg
+BUNDESLIGA;14-4-2018;15:30;1899 Hoffenheim V Hamburger SV;1899 Hoffenheim;Hamburger SV
+BUNDESLIGA;14-4-2018;15:30;Bayer Leverkusen V Eintracht Frankfurt;Bayer Leverkusen;Eintracht Frankfurt
+BUNDESLIGA;14-4-2018;15:30;Bayern Munich V Bor. Monchengladbach;Bayern Munich;Bor. Monchengladbach
+BUNDESLIGA;14-4-2018;15:30;FC Schalke 04 V Borussia Dortmund;FC Schalke 04;Borussia Dortmund
+BUNDESLIGA;14-4-2018;15:30;FSV Mainz 05 V SC Freiburg;FSV Mainz 05;SC Freiburg
+BUNDESLIGA;14-4-2018;15:30;Hertha BSC Berlin V FC Koln;Hertha BSC Berlin;FC Koln
+BUNDESLIGA;14-4-2018;15:30;VfB Stuttgart V Hannover 96;VfB Stuttgart;Hannover 96
+BUNDESLIGA;14-4-2018;15:30;VfL Wolfsburg V FC Augsburg;VfL Wolfsburg;FC Augsburg
+BUNDESLIGA;14-4-2018;15:30;Werder Bremen V RB Leipzig;Werder Bremen;RB Leipzig
+BUNDESLIGA;21-4-2018;15:30;Bor. Monchengladbach V VfL Wolfsburg;Bor. Monchengladbach;VfL Wolfsburg
+BUNDESLIGA;21-4-2018;15:30;Borussia Dortmund V Bayer Leverkusen;Borussia Dortmund;Bayer Leverkusen
+BUNDESLIGA;21-4-2018;15:30;Eintracht Frankfurt V Hertha BSC Berlin;Eintracht Frankfurt;Hertha BSC Berlin
+BUNDESLIGA;21-4-2018;15:30;FC Augsburg V FSV Mainz 05;FC Augsburg;FSV Mainz 05
+BUNDESLIGA;21-4-2018;15:30;FC Koln V FC Schalke 04;FC Koln;FC Schalke 04
+BUNDESLIGA;21-4-2018;15:30;Hamburger SV V SC Freiburg;Hamburger SV;SC Freiburg
+BUNDESLIGA;21-4-2018;15:30;Hannover 96 V Bayern Munich;Hannover 96;Bayern Munich
+BUNDESLIGA;21-4-2018;15:30;RB Leipzig V 1899 Hoffenheim;RB Leipzig;1899 Hoffenheim
+BUNDESLIGA;21-4-2018;15:30;VfB Stuttgart V Werder Bremen;VfB Stuttgart;Werder Bremen
+BUNDESLIGA;28-4-2018;15:30;1899 Hoffenheim V Hannover 96;1899 Hoffenheim;Hannover 96
+BUNDESLIGA;28-4-2018;15:30;Bayer Leverkusen V VfB Stuttgart;Bayer Leverkusen;VfB Stuttgart
+BUNDESLIGA;28-4-2018;15:30;Bayern Munich V Eintracht Frankfurt;Bayern Munich;Eintracht Frankfurt
+BUNDESLIGA;28-4-2018;15:30;FC Schalke 04 V Bor. Monchengladbach;FC Schalke 04;Bor. Monchengladbach
+BUNDESLIGA;28-4-2018;15:30;FSV Mainz 05 V RB Leipzig;FSV Mainz 05;RB Leipzig
+BUNDESLIGA;28-4-2018;15:30;Hertha BSC Berlin V FC Augsburg;Hertha BSC Berlin;FC Augsburg
+BUNDESLIGA;28-4-2018;15:30;SC Freiburg V FC Koln;SC Freiburg;FC Koln
+BUNDESLIGA;28-4-2018;15:30;VfL Wolfsburg V Hamburger SV;VfL Wolfsburg;Hamburger SV
+BUNDESLIGA;28-4-2018;15:30;Werder Bremen V Borussia Dortmund;Werder Bremen;Borussia Dortmund
+BUNDESLIGA;5-5-2018;15:30;Bor. Monchengladbach V SC Freiburg;Bor. Monchengladbach;SC Freiburg
+BUNDESLIGA;5-5-2018;15:30;Borussia Dortmund V FSV Mainz 05;Borussia Dortmund;FSV Mainz 05
+BUNDESLIGA;5-5-2018;15:30;Eintracht Frankfurt V Hamburger SV;Eintracht Frankfurt;Hamburger SV
+BUNDESLIGA;5-5-2018;15:30;FC Augsburg V FC Schalke 04;FC Augsburg;FC Schalke 04
+BUNDESLIGA;5-5-2018;15:30;FC Koln V Bayern Munich;FC Koln;Bayern Munich
+BUNDESLIGA;5-5-2018;15:30;Hannover 96 V Hertha BSC Berlin;Hannover 96;Hertha BSC Berlin
+BUNDESLIGA;5-5-2018;15:30;RB Leipzig V VfL Wolfsburg;RB Leipzig;VfL Wolfsburg
+BUNDESLIGA;5-5-2018;15:30;VfB Stuttgart V 1899 Hoffenheim;VfB Stuttgart;1899 Hoffenheim
+BUNDESLIGA;5-5-2018;15:30;Werder Bremen V Bayer Leverkusen;Werder Bremen;Bayer Leverkusen
+BUNDESLIGA;12-5-2018;15:30;1899 Hoffenheim V Borussia Dortmund;1899 Hoffenheim;Borussia Dortmund
+BUNDESLIGA;12-5-2018;15:30;Bayer Leverkusen V Hannover 96;Bayer Leverkusen;Hannover 96
+BUNDESLIGA;12-5-2018;15:30;Bayern Munich V VfB Stuttgart;Bayern Munich;VfB Stuttgart
+BUNDESLIGA;12-5-2018;15:30;FC Schalke 04 V Eintracht Frankfurt;FC Schalke 04;Eintracht Frankfurt
+BUNDESLIGA;12-5-2018;15:30;FSV Mainz 05 V Werder Bremen;FSV Mainz 05;Werder Bremen
+BUNDESLIGA;12-5-2018;15:30;Hamburger SV V Bor. Monchengladbach;Hamburger SV;Bor. Monchengladbach
+BUNDESLIGA;12-5-2018;15:30;Hertha BSC Berlin V RB Leipzig;Hertha BSC Berlin;RB Leipzig
+BUNDESLIGA;12-5-2018;15:30;SC Freiburg V FC Augsburg;SC Freiburg;FC Augsburg
+BUNDESLIGA;12-5-2018;15:30;VfL Wolfsburg V FC Koln;VfL Wolfsburg;FC Koln
