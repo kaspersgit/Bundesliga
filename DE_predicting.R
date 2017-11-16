@@ -19,10 +19,13 @@ library("rJava")
 if(!exists("foo", mode="function")) source("DE_cleaningandpreparing.R")
 
 # import and prepare the data and eventually save it as csv
-DE_preparation()
+DE_preparation(TRUE)
 
 # download that csv for further use and prediction
 dataf=read.csv("DE_final_dataset.csv")
+
+# delete IWH, IWD, IWH columns in order to avoid errors later on
+dataf=dataf[,-which(colnames(dataf) %in% c('IWH','IWD','IWA'))]
 
 # Separate into feature set and target variable
 #FTR = Full Time Result (H=Home Win, D=Draw, A=Away Win)

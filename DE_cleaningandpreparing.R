@@ -1,4 +1,4 @@
-DE_preparation <- function(){
+DE_preparation <- function(use.odds){
   raw.data.1 = read.csv('historic_data/DE_2000-2001.csv')
   raw.data.2 = read.csv('historic_data/DE_2001-2002.csv')
   raw.data.3 = read.csv('historic_data/DE_2002-2003.csv')
@@ -133,30 +133,33 @@ DE_preparation <- function(){
   
   
   # columns connected to gameplay and clean data from NA's
-  # columns_req = c('Date','HomeTeam','AwayTeam','FTHG','FTAG','FTR','HS','AS','HST','AST')
 
+if (use.odds){
   ## to include the odds of InterWetten
   columns_req = c('Date','HomeTeam','AwayTeam','FTHG','FTAG','FTR','HS','AS','HST','AST','IWH','IWD','IWA')
+}else{
+  columns_req = c('Date','HomeTeam','AwayTeam','FTHG','FTAG','FTR','HS','AS','HST','AST')
+}
   
   ## Shots on target (HST and AST) not available for seasons 3,4,5 and 6
-  playing_statistics_1 = na.omit(raw.data.1[columns_req])
-  playing_statistics_2 = na.omit(raw.data.2[columns_req])
-  # playing_statistics_3 = na.omit(raw.data.3[columns_req])
-  # playing_statistics_4 = na.omit(raw.data.4[columns_req])
-  # playing_statistics_5 = na.omit(raw.data.5[columns_req])
-  # playing_statistics_6 = na.omit(raw.data.6[columns_req])
-  playing_statistics_7 = na.omit(raw.data.7[columns_req])
-  playing_statistics_8 = na.omit(raw.data.8[columns_req])
-  playing_statistics_9 = na.omit(raw.data.9[columns_req])
-  playing_statistics_10 = na.omit(raw.data.10[columns_req])
-  playing_statistics_11 = na.omit(raw.data.11[columns_req])  
-  playing_statistics_12 = na.omit(raw.data.12[columns_req])
-  playing_statistics_13 = na.omit(raw.data.13[columns_req])
-  playing_statistics_14 = na.omit(raw.data.14[columns_req])
-  playing_statistics_15 = na.omit(raw.data.15[columns_req])
-  playing_statistics_16 = na.omit(raw.data.16[columns_req])
-  playing_statistics_17 = na.omit(raw.data.17[columns_req])
-  playing_statistics_18 = na.omit(raw.data.18[columns_req])
+  playing_statistics_1 = raw.data.1[!is.na(raw.data.1$Date),columns_req]
+  playing_statistics_2 = raw.data.2[!is.na(raw.data.2$Date),columns_req]
+  # playing_statistics_3 = raw.data.3[!is.na(raw.data.3$Date),columns_req]
+  # playing_statistics_4 = raw.data.4[!is.na(raw.data.4$Date),columns_req]
+  # playing_statistics_5 = raw.data.5[!is.na(raw.data.5$Date),columns_req]
+  # playing_statistics_6 = raw.data.6[!is.na(raw.data.6$Date),columns_req]
+  playing_statistics_7 = raw.data.7[!is.na(raw.data.7$Date),columns_req]
+  playing_statistics_8 = raw.data.8[!is.na(raw.data.8$Date),columns_req]
+  playing_statistics_9 = raw.data.9[!is.na(raw.data.9$Date),columns_req]
+  playing_statistics_10 = raw.data.10[!is.na(raw.data.10$Date),columns_req]
+  playing_statistics_11 = raw.data.11[!is.na(raw.data.11$Date),columns_req]
+  playing_statistics_12 = raw.data.12[!is.na(raw.data.12$Date),columns_req]
+  playing_statistics_13 = raw.data.13[!is.na(raw.data.13$Date),columns_req]
+  playing_statistics_14 = raw.data.14[!is.na(raw.data.14$Date),columns_req]
+  playing_statistics_15 = raw.data.15[!is.na(raw.data.15$Date),columns_req]
+  playing_statistics_16 = raw.data.16[!is.na(raw.data.16$Date),columns_req]
+  playing_statistics_17 = raw.data.17[!is.na(raw.data.17$Date),columns_req]
+  playing_statistics_18 = raw.data.18[!is.na(raw.data.18$Date),columns_req]
 
   
   # Gets the goals scored agg arranged by teams and matchweek
@@ -553,13 +556,16 @@ DE_preparation <- function(){
   playing_statistics_18 = add_form_df(playing_statistics_18)
   
   
-  # Rearranging columns with InterWetten odds
-  cols = c('Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTGS', 'ATGS', 'HTGC', 'ATGC', 'HTP', 'ATP','HTS','ATS','HTST','ATST', 'HM1', 'HM2', 'HM3',
-          'HM4', 'HM5', 'AM1', 'AM2', 'AM3', 'AM4', 'AM5','IWH', 'IWD', 'IWA')
-  
+
+  if (use.odds){
+    # Rearranging columns with InterWetten odds
+    cols = c('Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTGS', 'ATGS', 'HTGC', 'ATGC', 'HTP', 'ATP','HTS','ATS','HTST','ATST', 'HM1', 'HM2', 'HM3',
+             'HM4', 'HM5', 'AM1', 'AM2', 'AM3', 'AM4', 'AM5','IWH', 'IWD', 'IWA')
+  }else{
   # Rearranging columns
-  # cols = c('Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTGS', 'ATGS', 'HTGC', 'ATGC', 'HTP', 'ATP','HTS','ATS','HTST','ATST', 'HM1', 'HM2', 'HM3',
-  #          'HM4', 'HM5', 'AM1', 'AM2', 'AM3', 'AM4', 'AM5')
+  cols = c('Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTGS', 'ATGS', 'HTGC', 'ATGC', 'HTP', 'ATP','HTS','ATS','HTST','ATST', 'HM1', 'HM2', 'HM3',
+           'HM4', 'HM5', 'AM1', 'AM2', 'AM3', 'AM4', 'AM5')
+  }
   
   playing_statistics_1 = playing_statistics_1[cols]
   playing_statistics_2 = playing_statistics_2[cols]
@@ -802,15 +808,15 @@ DE_preparation <- function(){
     }
   }
   
-  playing_stat['HTWinStreak3'] = ifelse(playing_stat["HM3"]==9,1,0)
-  playing_stat['HTWinStreak5'] = ifelse(playing_stat["HM5"]==15,1,0)
-  playing_stat['HTLossStreak3'] = ifelse(playing_stat["HM3"]==0,1,0)
-  playing_stat['HTLossStreak5'] = ifelse(playing_stat["HM5"]==0,1,0)
+  playing_stat['HTWinStreak3'] = ifelse(playing_stat["HM3"]==9&playing_stat$MW>3,1,0)
+  playing_stat['HTWinStreak5'] = ifelse(playing_stat["HM5"]==15&playing_stat$MW>5,1,0)
+  playing_stat['HTLossStreak3'] = ifelse(playing_stat["HM3"]==0&playing_stat$MW>3,1,0)
+  playing_stat['HTLossStreak5'] = ifelse(playing_stat["HM5"]==0&playing_stat$MW>5,1,0)
   
-  playing_stat['ATWinStreak3'] = ifelse(playing_stat["AM3"]==9,1,0)
-  playing_stat['ATWinStreak5'] = ifelse(playing_stat["AM5"]==15,1,0)
-  playing_stat['ATLossStreak3'] = ifelse(playing_stat["AM3"]==0,1,0)
-  playing_stat['ATLossStreak5'] = ifelse(playing_stat["AM5"]==0,1,0)
+  playing_stat['ATWinStreak3'] = ifelse(playing_stat["AM3"]==9&playing_stat$MW>3,1,0)
+  playing_stat['ATWinStreak5'] = ifelse(playing_stat["AM5"]==15&playing_stat$MW>5,1,0)
+  playing_stat['ATLossStreak3'] = ifelse(playing_stat["AM3"]==0&playing_stat$MW>3,1,0)
+  playing_stat['ATLossStreak5'] = ifelse(playing_stat["AM5"]==0&playing_stat$MW>5,1,0)
   
   # Get Goal Difference
   playing_stat['HTGD'] = playing_stat['HTGS'] - playing_stat['HTGC']
