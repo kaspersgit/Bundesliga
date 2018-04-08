@@ -124,7 +124,7 @@ write.csv(test_prediction,paste("predictions_per_MW/DE_prediction_MW",(nrow(data
 #           to = "kasperde@hotmail.com",
 #           subject = "Inkoop advies",
 #           body = "Inkoop moment is gesignaleerd",
-#           smtp = list(host.name = "smtp.gmail.com", port = 465, user.name = "r.notification.kdh", passwd = "gle1992Dwizgh?!", SSL = TRUE),
+#           smtp = list(host.name = "smtp.gmail.com", port = 465, user.name = "r.notification.kdh", passwd = "", SSL = TRUE),
 #           authenticate = TRUE,
 #           send = TRUE)
 

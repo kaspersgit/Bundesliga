@@ -1,9 +1,9 @@
 DE_preparation <- function(use.odds){
   raw.data.1 = read.csv('historic_data/DE_2000-2001.csv')
   raw.data.2 = read.csv('historic_data/DE_2001-2002.csv')
-  raw.data.3 = read.csv('historic_data/DE_2002-2003.csv')
-  raw.data.4 = read.csv('historic_data/DE_2003-2004.csv')
-  raw.data.5 = read.csv('historic_data/DE_2004-2005.csv')
+  raw.data.3 = read.csv2('historic_data/DE_2002-2003.csv')
+  raw.data.4 = read.csv2('historic_data/DE_2003-2004.csv')
+  raw.data.5 = read.csv2('historic_data/DE_2004-2005.csv')
   raw.data.6 = read.csv('historic_data/DE_2005-2006.csv')
   raw.data.7 = read.csv('historic_data/DE_2006-2007.csv')
   raw.data.8 = read.csv('historic_data/DE_2007-2008.csv')
