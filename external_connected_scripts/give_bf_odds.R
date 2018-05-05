@@ -54,8 +54,8 @@ give_bf_odds <- function(country){
       awayteam=ourSpecificRace$runners[[1]]$runnerName[2]
       
       # To get team names similar to already used teamnames in main script
-      BF.names=c("Arsenal","Aston Villa","Birmingham","Blackburn","Blackpool","Bolton","Bournemouth","Bradford","Brighton","Burnley","Cardiff","Charlton","Chelsea","Coventry","C Palace","Derby","Everton","Fulham","Huddersfield","Hull","Ipswich","Leeds","Leicester","Liverpool","Man City","Man Utd","Middlesbrough","Newcastle","Norwich","Portsmouth","QPR","Reading","Sheffield United","Southampton","Stoke","Sunderland","Swansea","Tottenham","Watford","West Brom","West Ham","Wigan","Wolves","Wimbledon")
-      team.names=c("Arsenal","AstonVilla","Birmingham","Blackburn","Blackpool","Bolton","Bournemouth","Bradford","Brighton","Burnley","Cardiff","Charlton","Chelsea","Coventry","CrystalPalace","Derby","Everton","Fulham","Huddersfield","Hull","Ipswich","Leeds","Leicester","Liverpool","ManCity","ManUnited","Middlesbrough","Newcastle","Norwich","Portsmouth","QPR","Reading","Sheffield United","Southampton","Stoke","Sunderland","Swansea","Tottenham","Watford","WestBrom","WestHam","Wigan","Wolves","Wimbledon")
+      BF.names=c("FC Koln","Mainz","Leverkusen","Bayern Munich","Dortmund","Mgladbach","Eintracht Frankfurt","Augsburg","Schalke","Hamburg","Hannover","Hertha Berlin","RB Leipzig","Freiburg","Werder Bremen","Hoffenheim","Stuttgart","Wolfsburg")
+      team.names=c("FCKoln","Mainz","Leverkusen","BayernMunich","Dortmund","M'gladbach","EinFrankfurt","Augsburg","Schalke04","Hamburg","Hannover","Hertha","RBLeipzig","Freiburg","WerderBremen","Hoffenheim","Stuttgart","Wolfsburg")
       hometeam=team.names[which(BF.names==hometeam)]
       awayteam=team.names[which(BF.names==awayteam)]
       

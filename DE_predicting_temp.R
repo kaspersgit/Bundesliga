@@ -31,7 +31,7 @@ if (nrow(give_bf_odds('DE'))!=0){
   # Before starting the DE_db_updating function we need to make sure the internet connection is good
   # If not this will end in an error halfway updating the DB, meaning we have to delete rows in some tables manually
   # Todo: check internet connection
-
+  
   # First update the db
   DE_db_updating(n_teams)
   

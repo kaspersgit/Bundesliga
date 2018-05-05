@@ -100,7 +100,7 @@ for (n in 1:nrow(player_values_raw)){
 }
 
 for (n in 1:nrow(player_values_raw)){
-  player_values_raw$name[n]=gsub("[*]","",player_values_raw$name[n])
+  player_values_raw$name[n]=gsub("[*.]","",player_values_raw$name[n])
 }
 
 write.csv(player_values_raw,"DE_player_values_clean.csv")
