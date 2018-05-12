@@ -1,8 +1,8 @@
-	CREATE TRIGGER match_hist_update
+	CREATE TRIGGER DE_match_hist_update
 	AFTER INSERT
-	ON '2017'
+	ON 'DE_2018'
 BEGIN
-	INSERT INTO ENG_matches_hist
+	INSERT INTO DE_matches_hist
 	(`Div`,
 	`Date`,
 	`HomeTeam`,
@@ -13,7 +13,6 @@ BEGIN
 	`HTHG`,
 	`HTAG`,
 	`HTR`,
-	`Referee`,
 	`HS`,
 	`AS`,
 	`HST`,
@@ -37,7 +36,6 @@ BEGIN
 	NEW.`HTHG`,
 	NEW.`HTAG`,
 	NEW.`HTR`,
-	NEW.`Referee`,
 	NEW.`HS`,
 	NEW.`AS`,
 	NEW.`HST`,
